@@ -1,7 +1,5 @@
 "use client"
 
-import { div } from "framer-motion/client"
-import { Motiontransition } from "../navbar/Motiontransition"
 import { dataProperties } from "./Properties.data"
 
 export function Properties() {
